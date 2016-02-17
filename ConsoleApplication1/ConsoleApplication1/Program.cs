@@ -12,5 +12,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello world");
         }
+        static void Konik()
+        {
+            Console.WriteLine("adding new method");
+        }
     }
 }
