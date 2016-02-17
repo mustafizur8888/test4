@@ -20,7 +20,7 @@ namespace ConsoleApplication1
             //hellow 
             Console.WriteLine("adding new method");
             Console.WriteLine("adding new method");
-            Console.WriteLine("adding new method");
+            Console.WriteLine(" method");
         }
         static void anotherMethod()
         {
