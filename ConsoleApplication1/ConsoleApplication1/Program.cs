@@ -9,9 +9,13 @@ namespace ConsoleApplication1
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
             Console.WriteLine("hello world");
-            Console.WriteLine("another brunch");
+        }
+        static void Konik()
+        {
+            Console.WriteLine("adding new method");
+            Console.WriteLine("adding new method");
         }
     }
 }
