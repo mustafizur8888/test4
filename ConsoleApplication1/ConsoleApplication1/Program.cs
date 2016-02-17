@@ -17,5 +17,9 @@ namespace ConsoleApplication1
             Console.WriteLine("adding new method");
             Console.WriteLine("adding new method");
         }
+        static void anotherMethod()
+        {
+            Console.WriteLine("adding new method");
+        }
     }
 }
